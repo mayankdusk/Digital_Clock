@@ -1,2 +1,2 @@
 # Digital_Clock
-Live time using vanilla JS
+Live time showed using vanilla JS
